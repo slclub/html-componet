@@ -39,3 +39,10 @@ return Array(
     ),
 );
 ```
+##git op
+```shell
+git clone
+git pull
+git commit -a
+git push
+```
